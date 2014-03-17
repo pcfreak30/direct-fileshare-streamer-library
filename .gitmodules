@@ -1,0 +1,3 @@
+[submodule "lib/findHandlersJS"]
+	path = lib/findHandlersJS
+	url = https://github.com/ruidfigueiredo/findHandlersJS
